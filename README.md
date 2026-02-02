@@ -68,6 +68,7 @@ git checkout -b feature/patient-service
 
 git init
 git add .
+git status
 git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/Pradeep717/PatientManagement.git
